@@ -12,6 +12,7 @@ Projeto com objetivo de testar e treinar Python, efetuando automações, conexõ
 
 
 ### <h5> [IDE - Utilizada]</h5>
+![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=important)
 
 
